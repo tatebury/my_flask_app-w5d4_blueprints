@@ -1,0 +1,13 @@
+
+.content{
+    padding: 20px;
+    background-color: rgb(145, 145, 145);
+}
+body{
+    background-color: rgb(128, 152, 230);
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: rgb(99, 105, 161);
+ }
